@@ -1,1 +1,2 @@
 # Car-price-prediction-from-pakwheels-data
+This project develops a machine learning model to predict car prices based on various features such as brand, model, year of manufacture, mileage, fuel type, transmission, and engine specifications. Using regression algorithms, the system analyzes historical car data to estimate accurate market prices for vehicles.  This predictive model can assist buyers, sellers, and dealers in making informed decisions about car valuations. This project data of pakwheels listed cars which is well known Pakistani online classifier.
